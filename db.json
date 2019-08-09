@@ -179,36 +179,6 @@
       "dettaglio": "{\"posizione\":{\"lat\":45.44763731640129,\"lon\":10.987658500671387},\"sentinelle\":[{\"targa\":\"3-ITA\",\"modello\":\"Test nuova fake vega\",\"idDominio\":24,\"categorie\":{\"descrizione\":null,\"colore\":null,\"idDominio\":null}}]}",
       "lat": 45.44763731640129,
       "lon": 10.987658500671387
-    },
-        {
-      "id": 728,
-      "targa": "AW133EZ-ITA",
-      "data": "2019-08-07T09:41:53.000Z",
-      "sito": "VEGA11",
-      "img": "VEGA11$2019-08-07$11-41-53-673$AW133EZ-ITA.jpg",
-      "contextImg": "VEGA11$2019-08-07$11-41-53-673$AW133EZ-ITA$ctx.jpg",
-      "plateImg": "VEGA11$2019-08-07$11-41-53-673$AW133EZ-ITA$plate.jpg",
-      "notifica": "C",
-      "nazione": "ITA",
-      "classeVeicolo": "AUTOVEICOLO",
-      "dettaglio": "{\"posizione\":{\"lat\":45.44763731640129,\"lon\":10.987658500671387},\"sentinelle\":[{\"targa\":\"3-ITA\",\"modello\":\"Test nuova fake vega\",\"idDominio\":24,\"categorie\":{\"descrizione\":null,\"colore\":null,\"idDominio\":null}}]}",
-      "lat": 45.44763731640129,
-      "lon": 10.987658500671387
-    },
-        {
-      "id": 728,
-      "targa": "AW133EZ-ITA",
-      "data": "2019-08-07T09:41:53.000Z",
-      "sito": "VEGA11",
-      "img": "VEGA11$2019-08-07$11-41-53-673$AW133EZ-ITA.jpg",
-      "contextImg": "VEGA11$2019-08-07$11-41-53-673$AW133EZ-ITA$ctx.jpg",
-      "plateImg": "VEGA11$2019-08-07$11-41-53-673$AW133EZ-ITA$plate.jpg",
-      "notifica": "C",
-      "nazione": "ITA",
-      "classeVeicolo": "AUTOVEICOLO",
-      "dettaglio": "{\"posizione\":{\"lat\":45.44763731640129,\"lon\":10.987658500671387},\"sentinelle\":[{\"targa\":\"3-ITA\",\"modello\":\"Test nuova fake vega\",\"idDominio\":24,\"categorie\":{\"descrizione\":null,\"colore\":null,\"idDominio\":null}}]}",
-      "lat": 45.44763731640129,
-      "lon": 10.987658500671387
     }
   ],
   "comments": [
