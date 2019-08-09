@@ -13,7 +13,7 @@
       "classeVeicolo": "AUTOVEICOLO",
       "dettaglio": "{\"posizione\":{\"lat\":45.44763731640129,\"lon\":10.987658500671387},\"sentinelle\":[{\"targa\":\"3-ITA\",\"modello\":\"Test nuova fake vega\",\"idDominio\":24,\"categorie\":{\"descrizione\":null,\"colore\":null,\"idDominio\":null}}]}",
       "lat": 45.44763731640129,
-      "lon": 10.987658500671387,
+      "lon": 10.987658500671387
     },
     {
       "id": 726,
@@ -28,7 +28,7 @@
       "classeVeicolo": "AUTOVEICOLO",
       "dettaglio": "{\"posizione\":{\"lat\":45.42240140129514,\"lon\":10.956158638000488},\"sentinelle\":[{\"targa\":\"8-ITA\",\"modello\":\"inserita da power user\",\"idDominio\":1,\"categorie\":{\"descrizione\":\"arancione\",\"colore\":\"success\",\"idDominio\":1}}]}",
       "lat": 45.42240140129514,
-      "lon": 10.956158638000488,
+      "lon": 10.956158638000488
     },
     {
       "id": 724,
@@ -43,7 +43,7 @@
       "classeVeicolo": "AUTOVEICOLO",
       "dettaglio": "{\"posizione\":{\"lat\":45.42318454681935,\"lon\":10.959119796752931},\"sentinelle\":[{\"targa\":\"3-ITA\",\"modello\":\"Test nuova fake vega\",\"idDominio\":24,\"categorie\":{\"descrizione\":null,\"colore\":null,\"idDominio\":null}}]}",
       "lat": 45.42318454681935,
-      "lon": 10.959119796752931,
+      "lon": 10.959119796752931
     }
   ],
   "comments": [
