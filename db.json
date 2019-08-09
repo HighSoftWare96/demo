@@ -1,8 +1,92 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post A" },
-    { "id": 2, "title": "Post A" },
-    { "id": 3, "title": "Post A" }
+  "letture": [
+    {
+      "id": 728,
+      "targa": "AW133EZ-ITA",
+      "data": "2019-08-07T09:41:53.000Z",
+      "sito": "VEGA11",
+      "img": "VEGA11$2019-08-07$11-41-53-673$AW133EZ-ITA.jpg",
+      "contextImg": "VEGA11$2019-08-07$11-41-53-673$AW133EZ-ITA$ctx.jpg",
+      "plateImg": "VEGA11$2019-08-07$11-41-53-673$AW133EZ-ITA$plate.jpg",
+      "notifica": "C",
+      "nazione": "ITA",
+      "codiceKemler": null,
+      "velocita": null,
+      "direzione": "OUT",
+      "punteggioOcr": null,
+      "classeVeicolo": "AUTOVEICOLO",
+      "trailer": null,
+      "lettoDa": "eplate-connectors",
+      "dettaglio": "{\"posizione\":{\"lat\":45.44763731640129,\"lon\":10.987658500671387},\"sentinelle\":[{\"targa\":\"3-ITA\",\"modello\":\"Test nuova fake vega\",\"idDominio\":24,\"categorie\":{\"descrizione\":null,\"colore\":null,\"idDominio\":null}}]}",
+      "uuid": "a6a9764c2e435d624483161657c1fa01",
+      "lat": 45.44763731640129,
+      "lon": 10.987658500671387,
+      "sito_": {
+        "codice": "VEGA11",
+        "nome": "fake vega numero 5",
+        "enabled": 1,
+        "inncloudQuery": 0,
+        "idInncloud": "PORTALE-2"
+      }
+    },
+    {
+      "id": 726,
+      "targa": "AL282MT-ITA",
+      "data": "2019-08-07T09:41:43.000Z",
+      "sito": "VEGA97",
+      "img": "VEGA97$2019-08-07$11-41-43-664$AL282MT-ITA.jpg",
+      "contextImg": "VEGA97$2019-08-07$11-41-43-664$AL282MT-ITA$ctx.jpg",
+      "plateImg": "VEGA97$2019-08-07$11-41-43-664$AL282MT-ITA$plate.jpg",
+      "notifica": "C",
+      "nazione": "ITA",
+      "codiceKemler": null,
+      "velocita": null,
+      "direzione": null,
+      "punteggioOcr": null,
+      "classeVeicolo": "AUTOVEICOLO",
+      "trailer": null,
+      "lettoDa": "eplate-connectors",
+      "dettaglio": "{\"posizione\":{\"lat\":45.42240140129514,\"lon\":10.956158638000488},\"sentinelle\":[{\"targa\":\"8-ITA\",\"modello\":\"inserita da power user\",\"idDominio\":1,\"categorie\":{\"descrizione\":\"arancione\",\"colore\":\"success\",\"idDominio\":1}}]}",
+      "uuid": "e24a28fcea98fc01d37f3e48bb56e23b",
+      "lat": 45.42240140129514,
+      "lon": 10.956158638000488,
+      "sito_": {
+        "codice": "VEGA97",
+        "nome": "terza fake vega",
+        "enabled": 1,
+        "inncloudQuery": 0,
+        "idInncloud": ""
+      }
+    },
+    {
+      "id": 724,
+      "targa": "FT397RT-ITA",
+      "data": "2019-08-07T09:41:33.000Z",
+      "sito": "VEGA96",
+      "img": "VEGA96$2019-08-07$11-41-33-624$FT397RT-ITA.jpg",
+      "contextImg": "VEGA96$2019-08-07$11-41-33-624$FT397RT-ITA$ctx.jpg",
+      "plateImg": "VEGA96$2019-08-07$11-41-33-624$FT397RT-ITA$plate.jpg",
+      "notifica": "C",
+      "nazione": "ITA",
+      "codiceKemler": null,
+      "velocita": null,
+      "direzione": null,
+      "punteggioOcr": null,
+      "classeVeicolo": "AUTOVEICOLO",
+      "trailer": null,
+      "lettoDa": "eplate-connectors",
+      "dettaglio": "{\"posizione\":{\"lat\":45.42318454681935,\"lon\":10.959119796752931},\"sentinelle\":[{\"targa\":\"3-ITA\",\"modello\":\"Test nuova fake vega\",\"idDominio\":24,\"categorie\":{\"descrizione\":null,\"colore\":null,\"idDominio\":null}}]}",
+      "uuid": "2ddcaded26aeec91d6ca8086ad72d714",
+      "lat": 45.42318454681935,
+      "lon": 10.959119796752931,
+      "sito_": {
+        "codice": "VEGA96",
+        "nome": "altra fake vega",
+        "enabled": 1,
+        "inncloudQuery": 0,
+        "idInncloud": ""
+      }
+    }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
